@@ -10,7 +10,7 @@ export default {
     },
     extend: {
       backgroundImage:{
-        'login-bg':"url('./src/assets/login-bg.jpeg')"
+        'login-bg':"url('/src/assets/login-bg.jpeg')"
       }
     },
   },

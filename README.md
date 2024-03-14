@@ -1,8 +1,8 @@
-# React + Vite
+# Project Reset Flow-APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Login page and Signup pages were given.
+Forget password functionality is added where we can submit the email, An verification mail will be sent to the registered mail address. user could able to check the link attached On click user will be redirected to the reset page and able to update the new password.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+deployed URL: https://main--jade-gelato-67086c.netlify.app/
